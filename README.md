@@ -2,6 +2,8 @@
 ---
 <p>Junior Developer. </p> 
 
+* BlockChain
+* Web-Fronet-End
 
 <p>🖥 Stack </p>
 <div>
