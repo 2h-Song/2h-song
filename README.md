@@ -19,7 +19,7 @@
 </div>
 <p></p>
 <p> ✉Contact </p>
-<p> <a href="https://www.naver.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" /> dnu183@naver.com </p>
+<p> <a href="https://www.gmail.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /> ssongh2h@gmail.com </p>
 <p> <a href="https://www.instagram.com/2hsong_/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
