@@ -3,6 +3,7 @@
 <p>Junior Developer. </p> 
 
 * BlockChain
+* AI & LLM
 * Web-Fronet-End
 
 <p>🖥 Stack </p>
